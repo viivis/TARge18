@@ -41,6 +41,7 @@ namespace Kangelased
 				Console.WriteLine(kangelane);
 				Console.WriteLine($"Päästa tuleb {arv} inimest.\nPäästa suudeti {kangelane.Päästa(arv)}.\n-------------");
 			}
+			Console.WriteLine("Hello World");
 		}
 	}
 }
